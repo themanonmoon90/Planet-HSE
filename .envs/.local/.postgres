@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=planet_hse
+POSTGRES_USER=POiSiaMFKFEQDKSLAVVdWbZKXmOZowCP
+POSTGRES_PASSWORD=ZGA8vi1ljmbUXt4RD2EhpJS09OFeTUtZHpJRlvaEyHuCldkCK9Qm91NzpqtZnm2S
